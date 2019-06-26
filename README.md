@@ -6,11 +6,11 @@ Este tutorial de Transfer Learning y Fine Tuning con Keras pretende dar las paut
 
 ## Sesión 1
 
-En esta sesión se juega con el modelo InceptionV3, comprobando sus límites, y demostrando su potencial para aplicar transfer learning en el dataset Knifey-Spoony.
+**TransferLearning-sesion1.ipynb**: En esta sesión se juega con el modelo InceptionV3, comprobando sus límites, y demostrando su potencial para aplicar transfer learning en el dataset Knifey-Spoony.
 
 ## Sesión 2
 
-Empleando Keras, se aplica transfer learning y fine tuning sobre InceptionV3 para entrenar un modelo que se ajuste al conjunto de datos.
+**TransferLearning-sesion2.ipynb**: Empleando Keras, se aplica transfer learning y fine tuning sobre InceptionV3 para entrenar un modelo que se ajuste al conjunto de datos.
 
 ## Ejercicios
 
