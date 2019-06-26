@@ -16,6 +16,15 @@ Este tutorial de Transfer Learning y Fine Tuning con Keras pretende dar las paut
 
 En la sesión 2 se disponen varios ejercicios: uno en el que se pide repetir la sesión 2 con el modelo VGG16, y otro donde se pide aplicar la técnica con otro conjunto de datos, Honey Bees Pollen, de Kaggle.
 
+## Uso en Google Colab
+
+Ejecuta el siguiente código en una celda, una vez hayas abierto un notebook:
+
+    import os
+    work_dir = "/content/TL-tutorial/"
+    if os.getcwd() != work_dir:
+        !git clone https://github.com/miguelamda/TL-tutorial.git
+    os.chdir(work_dir)
 
 ## License (MIT)
 
