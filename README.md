@@ -4,6 +4,9 @@ Tutorial de Transfer Learning
 ## Propósito
 Este tutorial de Transfer Learning y Fine Tuning con Keras pretende dar las pautas principales para emplear esta técnica en Deep Learning, con ejemplos en visión por computador (donde esta técnica está teniendo más éxito).
 
+## Presentación
+**Transfer Learning.pdf**: Presentación de conceptos y dos casos de estudio.
+
 ## Sesión 1
 
 **TransferLearning-sesion1.ipynb**: En esta sesión se juega con el modelo InceptionV3, comprobando sus límites, y demostrando su potencial para aplicar transfer learning en el dataset Knifey-Spoony.
