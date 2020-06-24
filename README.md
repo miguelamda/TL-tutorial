@@ -1,23 +1,20 @@
 # TL-tutorial
-Tutorial de Transfer Learning
+Este es un tutorial de Transfer Learning.
 
 ## Propósito
 Este tutorial de Transfer Learning y Fine Tuning con Keras pretende dar las pautas principales para emplear esta técnica en Deep Learning, con ejemplos en visión por computador (donde esta técnica está teniendo más éxito).
 
 ## Presentación
+
 **Transfer Learning.pdf**: Presentación de conceptos y dos casos de estudio.
 
-## Sesión 1
+## Tutorial
 
-**TransferLearning-sesion1.ipynb**: En esta sesión se juega con el modelo InceptionV3, comprobando sus límites, y demostrando su potencial para aplicar transfer learning en el dataset Knifey-Spoony.
-
-## Sesión 2
-
-**TransferLearning-sesion2.ipynb**: Empleando Keras, se aplica transfer learning y fine tuning sobre InceptionV3 para entrenar un modelo que se ajuste al conjunto de datos.
+**TransferLearning.ipynb**: En este tutorial se juega con el modelo InceptionV3, demostrando su potencial para aplicar transfer learning en el dataset Knifey-Spoony, y aplicando transfer learning y fine tuning sobre para entrenar un nuevo modelo que se ajuste al conjunto de datos.
 
 ## Ejercicios
 
-En la sesión 2 se disponen varios ejercicios: uno en el que se pide repetir la sesión 2 con el modelo VGG16, y otro donde se pide aplicar la técnica con otro conjunto de datos, Honey Bees Pollen, de Kaggle.
+Se disponen varios ejercicios: uno en el que se pide repetir el proceso con el modelo VGG16, y otro donde se pide aplicar la técnica con otro conjunto de datos, Honey Bees Pollen, de Kaggle.
 
 ## Uso en Google Colab
 
@@ -28,6 +25,10 @@ Ejecuta el siguiente código en una celda, una vez hayas abierto un notebook:
     if os.getcwd() != work_dir:
         !git clone https://github.com/miguelamda/TL-tutorial.git
     os.chdir(work_dir)
+
+## Edición 2019
+
+Si buscas la edición de 2019, puedes acceder al Tag v1.0 [aquí](https://github.com/miguelamda/TL-tutorial/tree/v1.0).
 
 ## License (MIT)
 
