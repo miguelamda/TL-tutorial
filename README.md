@@ -6,7 +6,7 @@ Este tutorial de Transfer Learning y Fine Tuning con Keras pretende dar las paut
 
 ## Presentación
 
-**Transfer Learning.pdf**: Presentación de conceptos y dos casos de estudio.
+**Transfer Learning.pdf**: Presentación de conceptos y dos casos de estudio. Disponible en [Enseñanza Virtual](https://ev.us.es)
 
 ## Tutorial
 
@@ -14,11 +14,15 @@ Este tutorial de Transfer Learning y Fine Tuning con Keras pretende dar las paut
 
 ## Ejercicios
 
-Se disponen varios ejercicios: uno en el que se pide repetir el proceso con el modelo VGG16, y otro donde se pide aplicar la técnica con otro conjunto de datos, Honey Bees Pollen, de Kaggle.
+Se proponen varios ejercicios: uno (**TransferLearning-Ejercicio1.ipynb**) en el que se pide repetir el proceso con el modelo VGG16, y otro (**TransferLearning-Ejercicio2.ipynb**) donde se pide aplicar la técnica con otro conjunto de datos, Honey Bees Pollen, de Kaggle.
+
+## Uso en local
+
+Descarga o haz un clon del repositorio, y lanza jupyter notebook. Funciona con Keras 2.x.
 
 ## Uso en Google Colab
 
-Ejecuta el siguiente código en una celda, una vez hayas abierto un notebook:
+Ejecuta el siguiente código en una celda, una vez hayas abierto un notebook (este código ya viene disponible en los notebooks):
 
     import os
     work_dir = "/content/TL-tutorial/"
