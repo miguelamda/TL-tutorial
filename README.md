@@ -2,7 +2,7 @@
 Este es un tutorial de Transfer Learning.
 
 ## Propósito
-Este tutorial de Transfer Learning y Fine Tuning con Keras pretende dar las pautas principales para emplear esta técnica en Deep Learning, con ejemplos en visión por computador (donde esta técnica está teniendo más éxito).
+Este tutorial de Transfer Learning y Fine Tuning con Keras pretende dar las pautas principales para emplear esta técnica en Deep Learning, con ejemplos en visión por computador.
 
 ## Presentación
 
@@ -30,9 +30,10 @@ Ejecuta el siguiente código en una celda, una vez hayas abierto un notebook (es
         !git clone https://github.com/miguelamda/TL-tutorial.git
     os.chdir(work_dir)
 
-## Edición 2019
+## Ediciones anteriores
 
 Si buscas la edición de 2019, puedes acceder al Tag v1.0 [aquí](https://github.com/miguelamda/TL-tutorial/tree/v1.0).
+Si buscas la edición de 2020, puedes acceder al Tag v2.1 [aquí](https://github.com/miguelamda/TL-tutorial/tree/v2.1).
 
 ## License (MIT)
 
