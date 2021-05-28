@@ -32,8 +32,8 @@ Ejecuta el siguiente código en una celda, una vez hayas abierto un notebook (es
 
 ## Ediciones anteriores
 
-Si buscas la edición de 2019, puedes acceder al Tag v1.0 [aquí](https://github.com/miguelamda/TL-tutorial/tree/v1.0).
-Si buscas la edición de 2020, puedes acceder al Tag v2.1 [aquí](https://github.com/miguelamda/TL-tutorial/tree/v2.1).
+* Si buscas la edición de 2019, puedes acceder al Tag v1.0 [aquí](https://github.com/miguelamda/TL-tutorial/tree/v1.0).
+* Si buscas la edición de 2020, puedes acceder al Tag v2.1 [aquí](https://github.com/miguelamda/TL-tutorial/tree/v2.1).
 
 ## License (MIT)
 
